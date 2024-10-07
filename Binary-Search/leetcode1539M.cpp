@@ -22,4 +22,7 @@ int main(){
   cout<<findKthPositive(arr,6);
   return 0;
 
+
+  // finished
+
 }
